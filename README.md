@@ -41,6 +41,7 @@
   </td>
 </table>
 
+
 <p style="text-align: center;">
   <img style="text-align: center;" src="https://github-readme-stats.vercel.app/api?username=0leonov&show_icons=true&locale=en" alt="" />
 </p>
@@ -48,11 +49,10 @@
 <h3 style="text-align: center;">💪 Connect with me</h3>
   <div style="display: flex; justify-content: center; gap: 2rem;">
 
-  <a href="https://t.me/leonov3">
+  <a href="https://t.me/leonov3" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Telegram&message=leonov3&color=87CEFA" alt="Telegram | leonov3"/>
   </a>
-
-  <a href="https://discordapp.com/users/679382952945385473">
+  <a href="https://discordapp.com/users/679382952945385473" target="_blank">
     <img src="https://img.shields.io/badge/Discord-0leonov-blue" alt="Discord | 0leonov"/>
   </a>
 </div>
