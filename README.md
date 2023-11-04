@@ -41,7 +41,7 @@
   </td>
 </table>
 
-<h3 style="text-align: center;">💪 Connect with me</h3>
+<h3 style="text-align: center;">💬 Connect with me</h3>
   <div style="display: flex; justify-content: center; gap: 2rem;">
 
   <a href="https://t.me/leonov3" target="_blank">
