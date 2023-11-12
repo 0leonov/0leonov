@@ -43,8 +43,8 @@
   <td>
     <h3>Other</h3>
     <div>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/275px-Unity_Technologies_logo.svg.png" alt="Unity" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+      <img src="https://companieslogo.com/img/orig/U-ea48bc1d.png?t=1634728034" alt="Unity" height="50" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SFML_Logo.svg/2048px-SFML_Logo.svg.png" alt="SFML" height="50" />  
     </div>
   </td>
   </table>
