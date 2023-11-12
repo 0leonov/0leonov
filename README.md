@@ -1,11 +1,12 @@
-<h1 style="text-align: center;">Hi 👋, I'm Artyom</h1>
+<h1>Hi 👋, I'm Artyom</h1>
 
-<h2 style="text-align: center;">💪 My Skill Set</h2>
+<section>
+  <h2>💪 My Skill Set</h2>
 
-<table>
+  <table>
   <td>
     <h3>Languages</h3>
-    <div style="text-align: center;">
+    <div>
       <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
       <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="C#" height="50" />
@@ -16,7 +17,7 @@
 
   <td>
     <h3>Frontend</h3>
-    <div style="text-align: center;"> 
+    <div> 
       <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML" height="50" />
       <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS" height="50" />
       <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
@@ -27,9 +28,9 @@
     </div>
   </td>
 
-  <td style="padding: 10px;">
+  <td>
     <h3>Backend</h3>
-    <div style="text-align: center;">
+    <div>
       <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
       <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
       <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="NestJS" height="50" />
@@ -38,15 +39,29 @@
       <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /> 
     </div>
   </td>
-</table>
 
-<h3 style="text-align: center;">💬 Connect with me</h3>
-  <div style="display: flex; justify-content: center; gap: 2rem;">
+  <td>
+    <h3>Other</h3>
+    <div>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/275px-Unity_Technologies_logo.svg.png" alt="Unity" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+    </div>
+  </td>
+  </table>
+</section>
 
-  <a href="https://t.me/leonov3" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Telegram&message=leonov3&color=87CEFA" alt="Telegram | leonov3"/>
-  </a>
-  <a href="https://discordapp.com/users/679382952945385473" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-0leonov-blue" alt="Discord | 0leonov"/>
-  </a>
-</div>
+<section>
+  <h2>💬 Connect with me</h2>
+
+  <div>
+    <a href="https://t.me/leonov3" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=Telegram&message=leonov3&color=87CEFA" alt="Telegram | leonov3"/>
+    </a>
+  </div>
+
+  <div>
+    <a href="https://discordapp.com/users/679382952945385473" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-0leonov-blue" alt="Discord | 0leonov"/>
+    </a>
+  </div>
+</section>
