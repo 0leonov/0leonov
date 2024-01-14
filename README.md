@@ -9,20 +9,20 @@ export const me = {
   },
   "🔭": "Full-stack social media application using Next.js, Laravel, and PostgreSQL",
   "🌱": "I’m currently learning more about backend development.",
-  skills: {
-    "🎨": {
+  "💡": {
+    frontend: {
       languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
       frameworks: ["React", "Next.js", "Vue.js"],
       stateManagement: ["Redux", "Redux Toolkit"],
       css: ["Sass", "Tailwind CSS"],
     },
-    "🔧": {
+    backend: {
       languages: ["JavaScript", "TypeScript", "PHP"],
       javascriptRuntimes: ["Node.js", "Bun"],
       frameworks: ["Express", "NestJS", "Laravel"],
       databases: ["MongoDB", "PostgreSQL", "MySQL"],
     },
-    "🎲": {
+    gameDevelopment: {
       languages: ["C#", "C++"],
       engines: ["Unity"],
       libraries: ["SFML"],
