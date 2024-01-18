@@ -12,14 +12,14 @@ export const me = {
   "💡": {
     frontend: {
       languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
-      frameworks: ["React", "Next.js", "Vue.js"],
+      frameworks: ["React", "Next.js"],
       stateManagement: ["Redux", "Redux Toolkit"],
       css: ["Sass", "Tailwind CSS"],
     },
     backend: {
-      languages: ["JavaScript", "TypeScript", "PHP"],
+      languages: ["JavaScript", "TypeScript"],
       javascriptRuntimes: ["Node.js", "Bun"],
-      frameworks: ["Express", "NestJS", "Laravel"],
+      frameworks: ["Express", "NestJS"],
       databases: ["MongoDB", "PostgreSQL", "MySQL"],
     },
     gameDevelopment: {
