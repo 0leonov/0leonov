@@ -7,7 +7,7 @@ export const me = {
     ru: "Native / C2",
     lv: "Upper intermediate / B2",
   },
-  "🔭": "Full-stack social media application using Next.js, Laravel, and PostgreSQL",
+  "🔭": "Full-stack social media application using Next.js and PostgreSQL",
   "🌱": "I’m currently learning more about backend development.",
   "💡": {
     frontend: {
@@ -21,6 +21,7 @@ export const me = {
       javascriptRuntimes: ["Node.js", "Bun"],
       frameworks: ["Express", "NestJS"],
       databases: ["MongoDB", "PostgreSQL", "MySQL"],
+      orm: ["Prisma", "Drizzle ORM"]
     },
     gameDevelopment: {
       languages: ["C#", "C++"],
