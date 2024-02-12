@@ -21,13 +21,14 @@ export const me = {
       javascriptRuntimes: ["Node.js", "Bun"],
       frameworks: ["Express", "NestJS"],
       databases: ["MongoDB", "PostgreSQL", "MySQL"],
-      orm: ["Prisma", "Drizzle ORM"]
+      orm: ["Prisma", "Drizzle ORM"],
     },
     gameDevelopment: {
       languages: ["C#", "C++"],
       engines: ["Unity"],
       libraries: ["SFML"],
     },
+    tools: ["Docker", "Swagger"],
   },
   "📫": {
     email: "6leonov@gmail.com",
