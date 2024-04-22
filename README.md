@@ -6,11 +6,10 @@ export const me = {
     linkedIn: "in/artyom-leonov",
     telegram: "@leonov3",
   },
-  "😄": "hi" | "him",
   "🌐": {
-    en: "Upper intermediate / B2",
-    ru: "Native / C2",
-    lv: "Upper intermediate / B2",
+    en: B2",
+    ru: "C2",
+    lv: "B2",
   },
   "🔭": "Social media application designed to unite IT professionals, using TypeScript, Tailwind CSS, Next.js and PostgreSQL",
   "💡": {
