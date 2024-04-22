@@ -23,11 +23,6 @@ export const me = {
       frameworks: ["Express", "NestJS"],
       databases: ["MongoDB", "PostgreSQL", "MySQL"],
     },
-    gameDevelopment: {
-      languages: ["C#", "C++"],
-      engines: ["Unity"],
-      libraries: ["SFML"],
-    },
     tools: ["Docker", "Swagger", "Postman"],
   },
 };
