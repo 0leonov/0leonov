@@ -7,7 +7,7 @@ export const me = {
     telegram: "@leonov3",
   },
   "🌐": {
-    en: B2",
+    en: "B2",
     ru: "C2",
     lv: "B2",
   },
