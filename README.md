@@ -20,7 +20,7 @@ export const me = {
       css: ["Sass", "Tailwind CSS"],
     },
     backend: {
-      frameworks: ["Express", "NestJS"],
+      frameworks: ["Express", "NestJS", "Next.js"],
       databases: ["MongoDB", "PostgreSQL", "MySQL"],
     },
     tools: ["Docker", "Swagger", "Postman"],
