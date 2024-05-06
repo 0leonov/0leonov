@@ -12,18 +12,5 @@ export const me = {
     lv: "B2",
   },
   "🔭": "Social media application designed to unite IT professionals, using TypeScript, Tailwind CSS, Next.js and PostgreSQL",
-  "💡": {
-    languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
-    frontend: {
-      frameworks: ["React", "Next.js"],
-      stateManagement: ["Redux Toolkit"],
-      css: ["Sass", "Tailwind CSS"],
-    },
-    backend: {
-      frameworks: ["Express", "NestJS", "Next.js"],
-      databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    },
-    tools: ["Docker", "Swagger", "Postman"],
-  },
 };
 ```
