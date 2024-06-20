@@ -11,6 +11,6 @@ export const me = {
     ru: "C2",
     lv: "B2",
   },
-  "🔭": "Social media application designed to unite IT professionals, using TypeScript, Tailwind CSS, Next.js and PostgreSQL",
+  "🔭": "Social media application designed to unite IT professionals using Next.js",
 };
 ```
