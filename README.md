@@ -3,14 +3,8 @@ export const me = {
   "👋": "Hello there, I'm Artyom",
   "📫": {
     email: "6leonov@gmail.com",
-    linkedIn: "in/artyom-leonov",
-    telegram: "@leonov3",
+    linkedIn: "[in/artyom-leonov](https://www.linkedin.com/in/artyom-leonov/)",
+    telegram: "[@leonov3](https://t.me/leonov3)",
   },
-  "🌐": {
-    en: "B2",
-    ru: "C2",
-    lv: "B2",
-  },
-  "🔭": "Social media application designed to unite IT professionals using Next.js",
 };
 ```
